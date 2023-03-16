@@ -3,11 +3,6 @@ package com.pojo;
 
 
 public class Student {
-
-	
-	
-	
-
 	private int s_id,rollnumber,mobileno;
 	private String Fullname,email;
 	//add constr

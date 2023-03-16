@@ -30,7 +30,7 @@ public class TestInsertStudent {
 			pstmt.setInt(3, rollnumber);//third parameter
 			pstmt.setString(4, email);//forth parameter
 			pstmt.setInt(5, mobileno);//fifth parameter
-			//when we are using insert/upadte/delete sql
+			//when we are using insert/uzpadte/delete sql
 			//use executeUpdate method of statement
 			
 			

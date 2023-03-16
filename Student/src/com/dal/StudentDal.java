@@ -14,7 +14,7 @@ public class StudentDal {
 	private static Connection con;
 	static {
 		System.out.println("----static block get invoked------");
-		// establish connection
+		// establish connectio
 		con = DBUtil.getDbConnection();
 
 	}

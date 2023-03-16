@@ -12,7 +12,7 @@ public class TestConnection {
 		public static void main(String[] args) {
 	       		// TODO Auto-generated method stub
 
-			// Note:Add Driver jar files
+			// Note:Add Driver jars files
 
 			// Oracle Server:
 			// URL: jdbc:oracle:thin:@localhost:1521:test

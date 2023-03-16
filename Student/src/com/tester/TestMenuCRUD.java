@@ -24,7 +24,7 @@ public class TestMenuCRUD {
 
 				switch (ch) {
 				case 1:
-					// read all students
+					// read all sudents
 					ArrayList<Student> list = null;
 					try {
 						list = sDal.getAllStudent();

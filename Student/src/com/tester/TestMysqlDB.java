@@ -9,7 +9,7 @@ import java.sql.Statement;
 public class TestMysqlDB {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubs
 
 		try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/student", "root", "rootroot");) {
 			System.out.println("DB Application");

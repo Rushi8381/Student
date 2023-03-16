@@ -5,7 +5,7 @@ package com.pojo;
 public class Student {
 	private int s_id,rollnumber,mobileno;
 	private String Fullname,email;
-	//add constr
+	//add constrs
 	public Student(int s_id, String Fullname, int rollnumber, String email, int mobileno) {
 		super();
 		this.s_id = s_id;

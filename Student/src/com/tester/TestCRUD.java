@@ -9,9 +9,9 @@ import com.pojo.Student;
 public class TestCRUD {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stus
 
-		//client
+		//clients
 		try
 		{
 		StudentDal sDal=new StudentDal();
